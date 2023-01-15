@@ -11,6 +11,7 @@ const Layout = ({children}) => {
       <Head>
         <meta charSet='utf-8'/>
         <title>Онлайн Галерея</title>
+        <link rel="shortcut icon" href="/assets/icons/logo.png" type="image/png"/>
       </Head>
       <Header/>
       <main>
