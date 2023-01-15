@@ -1,13 +1,12 @@
-import React from 'react'
 import Head from 'next/head'
 import Header from './Header'
 import Footer from './Footer'
-import PictureWIndow from './PictureWIndow'
+import PictureWindow from './PictureWIndow'
 
 const Layout = ({children}) => {
   return (
     <>
-      <PictureWIndow/>
+      <PictureWindow/>
       <Head>
         <meta charSet='utf-8'/>
         <title>Онлайн Галерея</title>

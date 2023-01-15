@@ -1,4 +1,3 @@
-import React from 'react'
 import { useAtom } from 'jotai'
 import { pictureInWindowAtom } from '../store/atoms'
 import { disableScroll } from '../store/static'

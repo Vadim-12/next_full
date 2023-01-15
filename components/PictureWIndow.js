@@ -1,4 +1,3 @@
-import React from 'react'
 import { pictureInWindowAtom, itemsAtom } from '../store/atoms'
 import CloseBtn from './CloseBtn'
 import { useAtom } from 'jotai'
